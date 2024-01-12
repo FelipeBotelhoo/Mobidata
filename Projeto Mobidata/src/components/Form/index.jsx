@@ -257,7 +257,7 @@ export const Forms = ({ userClicked, isDisabled, disableEditing }) => {
             value={isDisabled ? userClicked?.complemento || '' : editedUser?.complemento || ''}
             disabled={isDisabled}
             onChange={handleInputChange}
-            
+            required
           />
         </Form.Group>
         <Form.Group className="mb-3" controlId="bairro">
