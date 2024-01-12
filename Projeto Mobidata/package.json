@@ -42,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0"
   }
 }
