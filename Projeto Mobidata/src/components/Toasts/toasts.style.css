@@ -1,0 +1,52 @@
+.custom-toast {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+  }
+  
+  /* Adicione esses estilos ao seu arquivo CSS (style.css) */
+
+.custom-toast {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+
+.toast {
+  width: 300px;
+  height: 180px;
+  text-align: center;
+  background-color:#fff;
+  color: #fff; /* Cor do texto - você pode ajustar a cor conforme necessário */
+}
+
+.message-toast{
+  font-size: 18px;
+  margin-top: 25px;
+  text-transform: uppercase;
+   font-family: 'Franklin Gothic ', 'Arial Narrow', Arial, sans-serif; 
+ 
+ 
+}
+.custom-toast .toast-header {
+  background-color: #006494; /* Cor de fundo do cabeçalho - você pode ajustar a cor conforme necessário */
+  color: #fff; /* Cor do texto do cabeçalho - você pode ajustar a cor conforme necessário */
+
+}
+
+.titulo-toast{
+ margin-left: 10px;
+}
+
+.toast-body {
+  color: #000; /* Cor do texto do corpo - você pode ajustar a cor conforme necessário */
+}
+
+.logo{
+  width: 42px;
+  border-radius: 80px;
+}

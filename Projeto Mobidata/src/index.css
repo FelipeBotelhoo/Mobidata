@@ -1,0 +1,17 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family: 'Roboto Slab', serif;
+}
+
+body{
+  background-image: url(./img/img-fundo.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+

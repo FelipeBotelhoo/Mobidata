@@ -1,0 +1,21 @@
+.button-add{
+margin-top: 20px;
+float: right;
+
+}
+
+.titulo-noUser{
+     text-align: center;
+     color: #d0d0d0;
+     text-transform: uppercase;
+     text-shadow: 2px 2px 2px #101010; 
+     margin-top: 50px;
+}
+
+.no-user{
+height: 300px;
+}
+
+.container-table{
+     height:80vh
+}

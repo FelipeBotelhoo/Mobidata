@@ -1,0 +1,113 @@
+/* Configurações Gerais */
+.icon-tabela-deletar,
+.icon-tabela-visualizar {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.icon-tabela-deletar{
+  color:#c8232c;
+}
+
+.icon-tabela-visualizar {
+  color:#006494;
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+/* Estilos para Tornar a Tabela Responsiva */
+.table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+}
+
+.custom-table th,
+.custom-table td {
+  padding: 8px;
+  text-align: center;
+}
+
+.custom-table td {
+  border-bottom: 1px solid #252525;
+}
+
+.custom-table .nome-usuario {
+  text-transform: capitalize;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: #006494;
+  border: 2px solid #e8f1f2;
+  text-align: center;
+  text-transform: uppercase;
+  color: #e8f1f2;
+}
+
+
+/* Paginação da Tabela */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination-container a {
+  padding: 8px;
+  margin: 2px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+}
+
+.pagination-container .active {
+  background-color: #1b98e0;
+  color: #fff;
+}
+
+.pagination-container li {
+  list-style: none;
+}
+
+/**** RESPONSIVIDADE *****/
+
+@media screen and (max-width: 600px) {
+  .custom-table th,
+  .custom-table td {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+
+
+  .custom-table .campo-email,
+  .custom-table .campo-uf {
+    display: none; /* Oculta as colunas de email e UF em telas menores */
+  }
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.custom-table th,
+.custom-table td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+
+.custom-table .nome-usuario {
+  text-transform: capitalize;
+}
+
+
+
+
+  

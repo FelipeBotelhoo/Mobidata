@@ -1,0 +1,17 @@
+.menu{
+   background-color: #13293d;
+   height: 60px;
+}
+
+.logo img{
+   width: 60px;
+   border-radius:80px;
+}
+
+
+/*Responsividade*/
+@media screen and (max-width: 600px) {
+    .logo img{
+margin-top: -15px;
+    }
+}

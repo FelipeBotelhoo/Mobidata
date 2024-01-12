@@ -1,0 +1,18 @@
+/* Footer.css */
+.footer {
+  position: relative; 
+  width: 100%;
+  background-color: #13293d;
+  color: #ddd;
+  padding: 10px ;
+  text-align: center;
+  margin-top: 130px;
+ 
+}
+
+
+.container-footer p{
+  text-shadow: 2px 2px 2px #252525;
+}
+
+
