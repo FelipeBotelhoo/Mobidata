@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=006494&random=false&width=435&lines=MobiData)](https://git.io/typing-svg)
 
-## Descrição  
+## Descrição *⃣
+
+<br>
+
 **MobiData**, um aplicativo web dedicado à eficiente gestão de usuários. <br>
 Desenvolvido para proporcionar uma experiência intuitiva, o MobiData simplifica a administração de dados de usuários, <br>
 tornando o processo mais acessível.<br>
