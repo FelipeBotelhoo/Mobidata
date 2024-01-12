@@ -95,7 +95,8 @@ node server.js
 
  ## Prévia *⃣
  
-![Captura de tela 2024-01-11 213158](https://github.com/FelipeBotelhoo/MobiData/assets/121906659/ce022f64-8418-4443-9aca-ef1d414eae95)
+![Captura de tela 2024-01-11 213158](https://github.com/FelipeBotelhoo/Mobidata/assets/121906659/372e4029-083b-4d5d-9e68-eb7976ac0bc7)
+
 
 
 ## 🛠️ Ferramentas Utilizadas 
